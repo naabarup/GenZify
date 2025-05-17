@@ -1,0 +1,36 @@
+
+.App {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #1e1e3f;
+  color: white;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  font-size: 16px;
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  background-color: #4b4bf2;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+  background-color: #333366;
+  padding: 15px;
+  border-radius: 8px;
+}
